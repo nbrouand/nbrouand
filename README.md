@@ -1,4 +1,9 @@
-### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=nbrouand&count_private=false&show_icons=true&theme=highcontrast)
+
+- 🔭 I’m currently working on Chutney
+- ⚡ Co-owner of Chutney
+
+[![Chutney-testing Card](https://github-readme-stats.vercel.app/api/pin/?username=chutney-testing&repo=chutney&theme=highcontrast)](https://github.com/chutney-testing/chutney)
 
 <!--
 **nbrouand/nbrouand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
